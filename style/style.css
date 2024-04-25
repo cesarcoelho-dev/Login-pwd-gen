@@ -124,7 +124,7 @@ input:focud {
     border-radius: 2rem;
     padding: 1rem 1.4rem;
     max-width: 150px;
-    cursor: pointer;
+cursor: pointer;
     align-self: flex-end;
     transition: .4seg;
 }
